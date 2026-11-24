@@ -132,7 +132,7 @@
 
 <br/>
 
-### ⚡ Fun Facts
+### ⚡ Fun Facts 
 
 - 🧩 I enjoy turning ideas into working prototypes, one bug fix at a time
 - 🎤 I love public speaking almost as much as I love clean code
